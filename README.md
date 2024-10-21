@@ -8,7 +8,7 @@ This repository contains code, data, and supplementary materials for the paper:
 
 ## Contents
 
-- Code: Implementation of the empathetic reflective response generation model (EmpRef) and baselines (prepend, fine-tuned, few-shot).
+- Code: Implementation of the empathetic reflective response generation model (EmpRef) and baselines (prepend, fine-tuned, few-shot)
 - Data: Datasets used for training and evaluation
 - Supplementary Materials: Additional information and resources related to the paper
 
